@@ -10,9 +10,12 @@ document.getElementById("get-file").addEventListener("click", function () {
         return;
     }
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> 4bdfc22 (update in filecreater)
+=======
+>>>>>>> 1eb9f67 (update)
     const fullName = `${fileName}.${fileType}`;
     const blob = new Blob([""], { type: "text/plain" }); // Empty file
     const url = URL.createObjectURL(blob);
