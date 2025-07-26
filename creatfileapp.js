@@ -8,6 +8,7 @@ const rl = readline.createInterface({
     output: process.stdout,
 });
 
+
 const fileCreation = () => {
     rl.question("Enter file Name: ", (name) => {
         if (fs.existsSync(`${name}.txt`)) {
