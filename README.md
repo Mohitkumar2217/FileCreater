@@ -19,9 +19,7 @@ A simple web-based utility to **create and manage files** directly from your bro
 |-------------------|----------------------------------------------|
 | `index.html`      | Main HTML structure                          |
 | `style.css`       | Styling for the interface                    |
-| `script.js`       | Core logic for file creation and handling    |
-| `creatfileapp.js` | Additional logic for file operations         |
-| `package.json`    | Project metadata and dependencies (if any)   |
+| `script.js`       | Core logic for file dependencies (if any)   |
 
 ---
 
@@ -34,6 +32,7 @@ A simple web-based utility to **create and manage files** directly from your bro
 ---
 
 ## 📸 Preview
+
 
 *(Add screenshots or GIFs here if available)*
 
